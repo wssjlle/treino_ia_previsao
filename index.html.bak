@@ -4,42 +4,42 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Treino IA Previsıes</title>
+  <title>Treino IA Previs√µes</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet"/>
 </head>
 <body>
   <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
     <div class="container">
-      <a class="navbar-brand" href="#">Treino IA Previsıes</a>
+      <a class="navbar-brand" href="#">Treino IA Previs√µes</a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav ms-auto">
-          <li class="nav-item"><a class="nav-link" href="#descricao">DescriÁ„o</a></li>
+          <li class="nav-item"><a class="nav-link" href="#descricao">Descri√ß√£o</a></li>
           <li class="nav-item"><a class="nav-link" href="#uso">Como Usar</a></li>
           <li class="nav-item"><a class="nav-link" href="#bibliotecas">Bibliotecas</a></li>
-          <li class="nav-item"><a class="nav-link" href="https://github.com/wssjlle/meu_projeto" target="_blank">RepositÛrio</a></li>
+          <li class="nav-item"><a class="nav-link" href="https://github.com/wssjlle/meu_projeto" target="_blank">Reposit√≥rio</a></li>
         </ul>
       </div>
     </div>
   </nav>
   <header class="bg-light py-5">
     <div class="container text-center">
-      <h1 class="display-4">Treino IA Previs„o</h1>
-      <p class="lead">Breve descriÁ„o do projeto.</p>
+      <h1 class="display-4">Treino IA Previs√£o</h1>
+      <p class="lead">Breve descri√ß√£o do projeto.</p>
       <a href="https://github.com/wssjlle/treino_ia_previsao" class="btn btn-primary btn-lg" target="_blank">Acessar no GitHub</a>
     </div>
   </header>
   <section id="descricao" class="py-5">
     <div class="container">
-      <h2>DescriÁ„o</h2>
-      <p>Este projeto realiza an·lise e classificaÁ„o de clientes a partir dos arquivos de dados:</p>
+      <h2>Descri√ß√£o</h2>
+      <p>Este projeto realiza an√°lise e classifica√ß√£o de clientes a partir dos arquivos de dados:</p>
       <ul>
         <li>Carrega `clientes.csv` e `novos_clientes.csv`</li>
-        <li>PrÈ-processamento e codificaÁ„o de vari·veis</li>
+        <li>Pr√©-processamento e codifica√ß√£o de vari√°veis</li>
         <li>Treinamento de modelos KNN e Random Forest</li>
-        <li>AvaliaÁ„o de acur·cia e relatÛrios de performance</li>
+        <li>Avalia√ß√£o de acur√°cia e relat√≥rios de performance</li>
       </ul>
     </div>
   </section>
@@ -47,11 +47,11 @@
     <div class="container">
       <h2>Como Usar</h2>
       <ol>
-        <li>Clone o repositÛrio:<br><code>git clone https://github.com/wssjlle/meu_projeto.git</code></li>
+        <li>Clone o reposit√≥rio:<br><code>git clone https://github.com/wssjlle/meu_projeto.git</code></li>
         <li>Entre na pasta:<br><code>cd meu_projeto</code></li>
         <li>Crie e ative um ambiente virtual:<br><code>python -m venv venv &amp;&amp; source venv/bin/activate</code></li>
-        <li>Instale dependÍncias:<br><code>pip install -r requirements.txt</code></li>
-        <li>Execute a aplicaÁ„o:<br><code>python src/app.py</code></li>
+        <li>Instale depend√™ncias:<br><code>pip install -r requirements.txt</code></li>
+        <li>Execute a aplica√ß√£o:<br><code>python src/app.py</code></li>
       </ol>
     </div>
   </section>
@@ -67,7 +67,7 @@
   </section>
   <footer class="bg-primary text-white py-3">
     <div class="container text-center">
-      <p>&copy; 2025 Wanderlei Silva dos Santos. DisponÌvel em <a href="https://github.com/wssjlle/treino_ia_previsao" class="text-white">GitHub</a>.</p>
+      <p>&copy; 2025 Wanderlei Silva dos Santos. Dispon√≠vel em <a href="https://github.com/wssjlle/treino_ia_previsao" class="text-white">GitHub</a>.</p>
     </div>
   </footer>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
