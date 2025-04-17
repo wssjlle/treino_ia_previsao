@@ -25,7 +25,7 @@ Este projeto realiza análise e classificação de clientes utilizando modelos d
 
 Para executar a aplicação:
 ```bash
-python src/app.py
+Vá em notebooks/inicial.ipynb
 ```
 
 ## Estrutura de Pastas
