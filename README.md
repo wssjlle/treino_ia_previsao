@@ -1,0 +1,51 @@
+# meu_projeto
+
+Este projeto realiza análise e classificação de clientes utilizando modelos de Machine Learning, com interface de GitHub Pages para documentação.
+
+## Instalação
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/wssjlle/treino_ia_previsao.git
+   ```
+2. Navegue até a pasta do projeto:
+   ```bash
+   cd treino_ia_previsao
+   ```
+3. Crie e ative um ambiente virtual:
+   ```bash
+   python -m venv venv && source venv/bin/activate
+   ```
+4. Instale as dependências:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+## Uso
+
+Para executar a aplicação:
+```bash
+python src/app.py
+```
+
+## Estrutura de Pastas
+
+```
+treino_ia_previsao/
+├── data/
+├── notebooks/
+├── docs/
+├── README.md
+├── requirements.txt
+└── .gitignore
+```
+
+## Tecnologias Utilizadas
+
+- pandas
+- scikit-learn
+- Jupyter
+
+## Licença
+
+MIT License

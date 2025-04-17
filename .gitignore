@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Windows system files
+desktop.ini
+Thumbs.db
+
+# Virtual environments
+venv/
+```gitignore
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+data/
+venv/
