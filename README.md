@@ -1,6 +1,6 @@
 # Trino de IA para previsões
 
-Este projeto realiza análise e classificação de clientes utilizando modelos de Machine Learning, com interface de GitHub Pages para documentação.
+Projeto para treinamento de ia para analisar e prever dados a partir de uma extensa base de dados.
 
 ## Instalação
 
