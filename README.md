@@ -34,7 +34,6 @@ python src/app.py
 treino_ia_previsao/
 ├── data/
 ├── notebooks/
-├── docs/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
